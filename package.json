@@ -8,8 +8,14 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "vue": "^2.6.6",
-    "vue-router": "^3.0.1"
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.15",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.1",
+    "vue-search-select": "^2.8.3",
+    "vue-select": "^2.6.3",
+    "xml-to-json-promise": "0.0.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
