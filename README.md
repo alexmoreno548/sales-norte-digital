@@ -27,8 +27,8 @@ npm run test
 npm run lint
 ```
 ### Ciclo de vida del proyecto
-Con lo expesto en los requerimientos, puede buscar un usaurio y si no existe agregarlo, pulsando el boton +, esto abrirá un prompt  donde podra agregar un usuario.
-Agregue tambien la localidad, y por ultimo los productos, al finalizar el boton save guardara en un JSON llamado sales, en el data del componente @/components/MainSale toda la información.
+Con lo expuesto en los requerimientos, puede buscar un usuario y si no existe agregarlo, pulsando el boton +, esto abrirá un prompt donde podra agregar un usuario.
+Agregue tambien la localidad, y por ultimo los productos, al finalizar el boton save guardará en un JSON llamado sales, en el data del componente @/components/MainSale.vue toda la información.
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
